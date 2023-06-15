@@ -1,0 +1,38 @@
+body{
+    font-family: Roboto;
+}
+
+h1 {
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+}
+
+p{
+    width: 500px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.title {
+    font-weight: 800;
+    font-size: 36;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0;
+
+    color: aqua;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    vertical-align:middle
+}
+
+.box>p{
+    display: inline;
+    vertical-align: middle;
+}

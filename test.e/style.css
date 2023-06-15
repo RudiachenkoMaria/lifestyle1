@@ -1,0 +1,54 @@
+/* #button{
+    background-color: rgb(230, 230, 119);
+}
+
+li button{
+    background-color: green;
+}
+
+
+button{
+    background-color: mediumorchid;
+}
+
+#button{
+    background-color: blue;
+}
+
+button:hover {
+    background-color: mediumorchid;
+}
+
+#button {
+    background-color: deeppink;
+}
+
+#button.btn  {
+    border-color: darkblue;
+} */
+
+ 
+a:hover {
+    color:chocolate ;
+}
+
+a:focus {
+    color:aquamarine;
+    outline: none;
+}
+
+input:focus{
+    outline: 2px solid green;
+}
+
+li:nth-child(1) {
+    color: green;
+}
+
+li:nth-child(2) {
+    color: yellow;
+}
+
+li:nth-child(3) {
+    color: blueviolet;
+}
